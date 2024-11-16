@@ -26,4 +26,4 @@ execute if score WB NextWB matches 40 run worldborder set 40 10
 execute if score WB NextWB matches 30 run worldborder set 30 10
 execute if score WB NextWB matches 20 run worldborder set 20 10
 execute if score WB NextWB matches 10 run worldborder set 10 10
-execute if score WB NextWB matches 0 run worldborder set 0 10
+execute if score WB NextWB matches 0 run worldborder set 1 10
